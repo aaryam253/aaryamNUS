@@ -8,11 +8,9 @@
 
 <h3 align="left">About Me:</h3>
 
-- 👨‍🎓 I'm a final year Computer Engineering student at NUS (National University of Singapore)
-- 🧑‍💻	Currently working as a data analyst for a healthcare startup based in Silicon Valley
-- 🖥️ Aspiring software engineer, learning full stack web development
-- 📊 Looking to work on interesting data related projects
-- ❄️ **Fun fact:** I visited Antartica when I was 2 years old
+- 👨‍🎓 Class of 2022 - Computer Engineering, NUS (National University of Singapore)
+- 🧑‍💻	Currently working as a software developer at a tech enabled startup based in Singapore
+- 🖥️ Aspiring software engineer, learning the ropes of the crypto world :)
 
 
 <h3 align="left">Let's Connect!</h3>
